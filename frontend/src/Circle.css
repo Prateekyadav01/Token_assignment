@@ -1,0 +1,12 @@
+.circle {
+    position: absolute;
+    background-color: #28a745;
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    transition: all 0.3s ease;
+  }
+  

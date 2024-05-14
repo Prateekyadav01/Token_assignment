@@ -1,0 +1,12 @@
+.rectangle {
+    position: absolute;
+    width: 80px;
+    height: 40px;
+    background-color: #007bff;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: move;
+  }
+  
